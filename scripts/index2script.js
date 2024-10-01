@@ -6,13 +6,13 @@ let startAddHTML = '';
 let elementHTML = `
   <div class="input-under-chat">
     <input type="text" class="input-under-chat-make js-input-chat" placeholder="Ask me anything.">
-    <div class="up-arrow"><img src="./images/uparrow.png" height="35" width="35" class="up-arrow-img"></div>
+    <div class="up-arrow"><img src="image/uparrow.png" height="35" width="35" class="up-arrow-img"></div>
   </div>
   `; 
   let sayByBotHTML = `
   <div class="by-bot">
     <div class="on-chat-bot">
-      <img src="./images/bot.jpeg" class="on-chat-bot-img" height="35" width="35">
+      <img src="image/bot.jpeg" class="on-chat-bot-img" height="35" width="35">
     </div>
     <button class="message-button-bot">
       Hi! I'm currently under construction but ready to assist with the alumni webpage. Feel free to ask me anything. Apologies for the inconvenience.
